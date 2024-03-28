@@ -6,7 +6,7 @@ In this App we'll explore how to integrate Lyzr's SDK with Streamlit to build a 
 
 ## Getting Started
 
-Follow these steps to run the Lyzr Maths Agent Streamlit App locally:
+Follow these steps to run the Lyzr Python Game Code Generator Agent Streamlit App locally:
 
 1. **Install Dependencies:**
    ```bash
