@@ -16,7 +16,7 @@ Follow these steps to run the Lyzr Python Game Code Generator Agent Streamlit Ap
     ```bash
     streamlit run app.py
 
-## Resume QABot App
+## Python Game Code Generator App
 [Application](https://lyzr-game-generator.streamlit.app/)
 
 ## About Lyzr
